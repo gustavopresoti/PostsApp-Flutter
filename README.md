@@ -30,7 +30,7 @@ O <span>PostsApp</span> é uma aplicação (mobile) que disponibiliza diversos p
 
 Você pode visualizar o layout do projeto através desse [link](https://www.figma.com/file/zGHU4KQBHjYcqzRWJzm33f/PostsApp?node-id=0%3A1). Lembrando que você precisa ter uma conta no Figma para acessá-lo.
 
-## ▶️ Get Started
+## 📲 Get Started
 
 - Faça um fork do projeto (é necessário ter uma conta no github)
 - Abra o terminal
