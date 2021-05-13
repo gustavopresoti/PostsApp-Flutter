@@ -35,7 +35,7 @@ Você pode visualizar o layout do projeto através desse [link](https://www.figm
 - Faça um fork do projeto (é necessário ter uma conta no github)
 - Abra o terminal
 - Acesse o diretório onde deseja salvar o aplicativo e digite:
-  > `git clone link_do_projeto_no_seu_github myposts`
+  > `git clone link_do_projeto_no_seu_github postsapp`
 - Abra o projeto no Android Studio
 - Não se esqueça de abrir o arquivo pubspec.yaml e salvar o arquivo para que os plugins sejam baixados
 
