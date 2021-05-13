@@ -74,7 +74,7 @@ class _HomePageState extends State<HomePage> {
                       children: <Widget>[
                         ListTile(
                           title: Text(data[index]['title']),
-                          subtitle: Text(data[index]['body']),
+                          subtitle: Text(data[index]['body'], textAlign: TextAlign.justify,),
                           contentPadding: const EdgeInsets.all(10.0),
                           onTap:() {
                             Navigator.push(
@@ -128,6 +128,7 @@ class PostPage extends StatelessWidget {
             ),
             Text(
               '$body',
+              textAlign: TextAlign.justify,
               style: TextStyle(
                 fontSize: 18,
               ),
